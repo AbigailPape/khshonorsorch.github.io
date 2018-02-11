@@ -1,1 +1,9 @@
-
+body {
+  background-color: #fafa00;
+}
+h1 {
+  font-size: 3em;
+  font-family: 'Times New Roman', 'Times', 'Serif';
+  text-align: center;
+  color: #194b19;
+}
